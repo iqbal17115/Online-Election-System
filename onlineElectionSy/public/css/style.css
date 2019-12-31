@@ -1,0 +1,67 @@
+.rules{
+	background: #E5E8E8;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+}.rules>h4{
+    text-align: center;
+}body{
+	background-image: url('https://images.pexels.com/photos/2131801/pexels-photo-2131801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: repeat-y;
+    background-size: cover;
+    height: 100vh;
+}.newElection{
+	background: rgba(242, 243, 244, .6);
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	width: 50%;
+	background-repeat: repeat-x;
+}.cDetails{
+	background: rgba(141, 185, 229, .6);
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	width: 75%;
+	background-repeat: repeat-x;
+}.vote{
+	background: rgba(141, 185, 229, .6);
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	width: 75%;
+	background-repeat: repeat-x;	
+}.result{
+	background: rgba(141, 185, 229, .6);
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	width: 80%;
+	background-repeat: repeat-x;
+}.success{
+	width: 80%;
+	padding: 50px;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	background: rgb(255,255,255,0.6);
+}.unsuccess{
+	width: 80%;
+	padding: 50px;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	background: rgb(255,255,255,0.6);
+}
